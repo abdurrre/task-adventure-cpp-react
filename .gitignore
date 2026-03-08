@@ -1,0 +1,12 @@
+# Mengabaikan file hasil kompilasi C++
+server.exe
+*.o
+
+# Mengabaikan folder library React yang sangat besar
+task-adventure-ui/node_modules/
+task-adventure-ui/dist/
+
+# Mengabaikan file environment dan log
+.env
+*.log
+.DS_Store
